@@ -1,0 +1,29 @@
+input{
+ border-radius: 50px;
+
+ border: 1px solid gray;
+ padding: 5px;
+ text-align: center;
+
+
+}
+
+button{
+
+border-radius: 50px;
+border: none ;
+padding: 10px;
+
+background-color: pink;
+
+color: #fff;
+
+cursor: pointer;
+transition: all 0.3s ease;
+
+}
+
+button:hover{
+
+    background-color: orange;
+}
