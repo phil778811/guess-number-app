@@ -1,5 +1,9 @@
 input{
+ border-radius: 50px;
 
+ border: 1px solid gray;
+ padding: 5px;
+ text-align: center;
 
 
 }
